@@ -1,6 +1,4 @@
-//programa con opciones
-//menu operaciones matematicas basicas
-//menu operaciones matematicas basicas
+
 #include<iostream>
 using namespace std;
 int main() {
